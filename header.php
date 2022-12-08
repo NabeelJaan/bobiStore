@@ -17,17 +17,58 @@
 
 	<?php do_action( 'tailpress_header' ); ?>
 
-	<header>
 
-		<div class="top-bar bg-black text-white">
-			topbar
+	<div class="topBar-wrapper bg-[#092143] py-2 border-b border-red-700">
+
+		<div class="container mx-auto">
+			<div class="topBar-inner">
+				<!-- Language side -->
+				<div class="languages">
+					<a class="text-xs text-white font-normal mr-5" href="#">ENGLISH</a>
+					<a class="text-xs text-white font-normal" href="#">CONTURY</a>
+					<span class="text-white">FREE SHIPPING FOR ALL ORDERS OF $150</span>
+				</div>
+				<!-- Social icon side -->
+				<div class="site-contact-info">
+					<div class="s-icon">
+
+					</div>
+					<div class="site-links">
+						
+					</div>
+				</div>
+
+			</div>
 		</div>
 
+	</div>
 
-		
+	<!-- Top end -->
+
+	<div class="search-wrapper">
+		<div class="container">
+			<div class="md:flex md:items-center md:justify-between">
+				<div class="site-logo">
+
+				</div>
+
+				<div class="searchBar">
+
+				</div>
+
+				<div class="woo-icon">
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Header start -->
+	<header>
 
 		<div class="mx-auto container">
-			<div class="lg:flex lg:justify-between lg:items-center py-6">
+			<div class="lg:flex lg:items-center py-6">
 				<div class="flex justify-between items-center">
 					<div>
 						<?php if ( has_custom_logo() ) { ?>

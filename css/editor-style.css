@@ -67,6 +67,10 @@
   margin-bottom: 2rem
 }
 
+.mr-5 {
+  margin-right: 1.25rem
+}
+
 .mt-4 {
   margin-top: 1rem
 }
@@ -164,6 +168,11 @@
   border-color: rgb(14 165 233 / var(--tw-border-opacity))
 }
 
+.border-red-700 {
+  --tw-border-opacity: 1;
+  border-color: rgb(185 28 28 / var(--tw-border-opacity))
+}
+
 .bg-primary {
   --tw-bg-opacity: 1;
   background-color: rgb(14 165 233 / var(--tw-bg-opacity))
@@ -184,14 +193,14 @@
   background-color: rgb(255 255 255 / var(--tw-bg-opacity))
 }
 
+.bg-\[\#092143\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(9 33 67 / var(--tw-bg-opacity))
+}
+
 .bg-gray-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(243 244 246 / var(--tw-bg-opacity))
-}
-
-.bg-black {
-  --tw-bg-opacity: 1;
-  background-color: rgb(0 0 0 / var(--tw-bg-opacity))
 }
 
 .p-4 {
@@ -237,6 +246,11 @@
   line-height: 2rem
 }
 
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem
+}
+
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem
@@ -258,6 +272,10 @@
 
 .font-bold {
   font-weight: 700
+}
+
+.font-normal {
+  font-weight: 400
 }
 
 .font-extrabold {
@@ -403,6 +421,14 @@ body {
 
   .md\:w-1\/2 {
     width: 50%
+  }
+
+  .md\:items-center {
+    align-items: center
+  }
+
+  .md\:justify-between {
+    justify-content: space-between
   }
 
   .md\:text-3xl {
