@@ -1057,6 +1057,11 @@ article > *:not(.entry-content),
   background-color: rgb(244 165 28 / var(--tw-bg-opacity));
 }
 
+.hover\:text-\[\#f4a51c\]:hover {
+  --tw-text-opacity: 1;
+  color: rgb(244 165 28 / var(--tw-text-opacity));
+}
+
 @media (min-width: 782px) {
   .md\:my-6 {
     margin-top: 1.5rem;
