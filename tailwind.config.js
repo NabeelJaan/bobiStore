@@ -18,10 +18,26 @@ module.exports = {
                 lg: '0rem'
             },
         },
+
+
         extend: {
-            colors: tailpress.colorMapper(tailpress.theme('settings.color.palette', theme)),
-            fontSize: tailpress.fontSizeMapper(tailpress.theme('settings.typography.fontSizes', theme))
+            fontFamily: {
+                'poppins': ['Poppins', 'sans-serif'],
+            },
+            backgroundColor: {
+                'darkBlue'     : '#092143',
+                'darkOrange'   : '#f4a51c',
+                'lightGray'    : '#F7F7F7',
+                'darkGray'     : '#F6F6F6sss'
+            },
+            textColor: {
+                'Gray'         : '#CEC7B2',
+                'White'        : '#3A4D69',
+                'lightBlack'   : '#333333'
+            },
         },
+
+
         screens: {
             'xs': '480px',
             'sm': '600px',

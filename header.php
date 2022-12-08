@@ -7,6 +7,9 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
 	<?php wp_head(); ?>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
 
 <body <?php body_class( 'bg-white text-gray-900 antialiased' ); ?>>
@@ -18,23 +21,26 @@
 	<?php do_action( 'tailpress_header' ); ?>
 
 
-	<div class="topBar-wrapper bg-[#092143] py-2 border-b border-red-700">
+	<div class="topBar-wrapper bg-[#092143] py-2 border-b">
 
 		<div class="container mx-auto">
-			<div class="topBar-inner">
+			<div class="topBar-inner md:flex justify-between">
 				<!-- Language side -->
 				<div class="languages">
-					<a class="text-xs text-white font-normal mr-5" href="#">ENGLISH</a>
-					<a class="text-xs text-white font-normal" href="#">CONTURY</a>
-					<span class="text-white">FREE SHIPPING FOR ALL ORDERS OF $150</span>
+					<a class="text-xs text-white font-medium py-2 px-3 border-x" href="#">ENGLISH</a>
+					<a class="text-xs text-white font-normal py-2 px-3 border-r" href="#">CONTURY</a>
+					<span class="text-xs text-Gray font-medium ml-5">FREE SHIPPING FOR ALL ORDERS OF $150</span>
 				</div>
 				<!-- Social icon side -->
 				<div class="site-contact-info">
 					<div class="s-icon">
-
+						<span><i class="fa-brands fa-facebook-f"></i></span>
+						<span><i class="fa-brands fa-twitter"></i></span>
 					</div>
 					<div class="site-links">
-						
+						<a class="text-xs text-white font-medium py-2 px-3 border-x" href="#">NEWSLETTER</a>
+						<a class="text-xs text-white font-medium py-2 px-3 border-r" href="#">CONTACTUS</a>
+						<a class="text-xs text-white font-medium py-2 px-3 border-r" href="#">FAQs</a>
 					</div>
 				</div>
 
@@ -45,11 +51,11 @@
 
 	<!-- Top end -->
 
-	<div class="search-wrapper">
-		<div class="container">
+	<div class="search-wrapper bg-darkBlue py-8">
+		<div class="container mx-auto">
 			<div class="md:flex md:items-center md:justify-between">
 				<div class="site-logo">
-
+					<a href=""><img src="wp-content/uploads/2022/12/download.svg" alt=""></a>
 				</div>
 
 				<div class="searchBar">
@@ -68,13 +74,16 @@
 	<header>
 
 		<div class="mx-auto container">
-			<div class="lg:flex lg:items-center py-6">
+			<div class="lg:flex lg:items-center py-3 ">
 				<div class="flex justify-between items-center">
 					<div>
-						<?php if ( has_custom_logo() ) { ?>
+						<div class="categories-wrapper">
+							<a class="text-lightBlack text-[13px] font-bold border-x py-4 pl-5 pr-24" href="#">BROWSE CATEGORIES</a>
+						</div>
+						<!-- <?php if ( has_custom_logo() ) { ?>
                             <?php the_custom_logo(); ?>
 						<?php } else { ?>
-							<a href="<?php echo get_bloginfo( 'url' ); ?>" class="font-extrabold text-lg uppercase">
+							<a href="<?php echo get_bloginfo( 'url' ); ?>" class="font-bold text-lg uppercase mr-[50px]">
 								<?php echo get_bloginfo( 'name' ); ?>
 							</a>
 
@@ -83,7 +92,7 @@
 							</p>
 
 						<?php } ?>
-					</div>
+					</div> -->
 
 					<div class="lg:hidden">
 						<a href="#" aria-label="Toggle navigation" id="primary-menu-toggle">
@@ -107,7 +116,7 @@
 						'container_class' => 'hidden bg-gray-100 mt-4 p-4 lg:mt-0 lg:p-0 lg:bg-transparent lg:block',
 						'menu_class'      => 'lg:flex lg:-mx-4',
 						'theme_location'  => 'primary',
-						'li_class'        => 'lg:mx-4',
+						'li_class'        => 'lg:mx-3 pl-7 text-lightBlack text-[13px] font-bold hover:text-Orange',
 						'fallback_cb'     => false,
 					)
 				);
