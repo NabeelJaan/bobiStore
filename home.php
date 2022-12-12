@@ -123,6 +123,15 @@
                 </div>
             </div>
         </div>
+
+        <div class="wrist-watches">
+            <div class="quarz-wrapper bg-[url('')] p-7 bg-darkBlue">
+                <h5 class="text-white text-2xl font-light">QUARTZ</h5>
+                <h6 class="text-white text-2xl font-semibold">WRIST WATCH</h6>
+                <p class="text-Gray text-sm font-medium">Donec accumsan eros.</p>
+                <span class="text-white text-sm font-semibold">$299.00</span>
+            </div>
+        </div>
     </div>
 </section>
 

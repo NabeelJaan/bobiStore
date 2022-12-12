@@ -41,10 +41,15 @@ add_action( 'after_setup_theme', 'tailpress_setup' );
 function tailpress_enqueue_scripts() {
 	$theme = wp_get_theme();
 
+
+	// CSS
 	wp_enqueue_style('OwlCarousel', get_template_directory_uri() . '/assets/owlcarousel/css/owl.carousel.min.css' );
 	wp_enqueue_style('OwlCarouselTheme', get_template_directory_uri() . '/assets/owlcarousel/css/owl.theme.default.css' );
-	wp_enqueue_script( 'OwlCarouseljs', get_template_directory_uri() . '/assets/owlcarousel/js/owl.carousel.min.js', array('jquery'), true );
+	wp_enqueue_style( 'Style', get_template_directory_uri() . '/style.css', array(), '1.0.0' );
 
+
+	// Js
+	wp_enqueue_script( 'OwlCarouseljs', get_template_directory_uri() . '/assets/owlcarousel/js/owl.carousel.min.js', array('jquery'), true );
 	wp_enqueue_style( 'tailpress', tailpress_asset( 'css/app.css' ), array(), $theme->get( 'Version' ) );
 	wp_enqueue_script( 'tailpress', tailpress_asset( 'js/app.js' ), array(), $theme->get( 'Version' ) );
 }

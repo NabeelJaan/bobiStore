@@ -109,10 +109,11 @@
 			<div class="lg:flex lg:items-center py-3 ">
 				<div class="flex justify-between items-center">
 					<div>
-						<div class="categories-wrapper">
+						<!-- <div class="categories-wrapper">
 							<a class="text-lightBlack text-[13px] font-bold border-x py-4 pl-5 pr-24" href="#">BROWSE CATEGORIES</a>
-						</div>
-						<!-- <?php if ( has_custom_logo() ) { ?>
+						</div> -->
+						
+						<?php if ( has_custom_logo() ) { ?>
                             <?php the_custom_logo(); ?>
 						<?php } else { ?>
 							<a href="<?php echo get_bloginfo( 'url' ); ?>" class="font-bold text-lg uppercase mr-[50px]">
@@ -124,7 +125,7 @@
 							</p>
 
 						<?php } ?>
-					</div> -->
+					</div>
 
 					<div class="lg:hidden">
 						<a href="#" aria-label="Toggle navigation" id="primary-menu-toggle">
