@@ -7,41 +7,44 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
 	<?php wp_head(); ?>
-
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
 
 <body <?php body_class( 'bg-white text-gray-900 antialiased' ); ?>>
 
-<?php do_action( 'tailpress_site_before' ); ?>
-
-<div id="page" class="min-h-screen flex flex-col">
-
-	<?php do_action( 'tailpress_header' ); ?>
-
-
-	<div class="topBar-wrapper bg-[#092143] py-2 border-b">
+	<div class="topBar-wrapper bg-darkBlue py-2 border-b border-white/10">
 
 		<div class="container mx-auto">
 			<div class="topBar-inner md:flex justify-between">
 				<!-- Language side -->
 				<div class="languages">
-					<a class="text-xs text-white font-medium py-2 px-3 border-x" href="#">ENGLISH</a>
-					<a class="text-xs text-white font-normal py-2 px-3 border-r" href="#">CONTURY</a>
+					<a class="text-white text-xs font-medium py-2 px-3 border-x border-white/10" href="#">ENGLISH</a>
+					<a class="text-white text-xs font-normal py-2 px-3 border-r border-white/10" href="#">CONTURY</a>
 					<span class="text-xs text-Gray font-medium ml-5">FREE SHIPPING FOR ALL ORDERS OF $150</span>
 				</div>
 				<!-- Social icon side -->
-				<div class="site-contact-info">
-					<div class="s-icon">
-						<span><i class="fa-brands fa-facebook-f"></i></span>
-						<span><i class="fa-brands fa-twitter"></i></span>
+				<div class="site-contact-info md:flex">
+
+					<div class="s-icon md:flex">
+						<span>
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" width="20px" height="20px">
+								<path fill="#ffffff" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/>
+							</svg>
+						</span>
+
+						<span>
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="20px" height="20px">
+								<path fill="#ffffff" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/>
+							</svg>
+						</span>
+						
 					</div>
+
 					<div class="site-links">
-						<a class="text-xs text-white font-medium py-2 px-3 border-x" href="#">NEWSLETTER</a>
-						<a class="text-xs text-white font-medium py-2 px-3 border-r" href="#">CONTACTUS</a>
-						<a class="text-xs text-white font-medium py-2 px-3 border-r" href="#">FAQs</a>
+						<a class="text-xs text-white font-medium py-2 px-3 border-x border-white/10" href="#">NEWSLETTER</a>
+						<a class="text-xs text-white font-medium py-2 px-3 border-r border-white/10" href="#">CONTACTUS</a>
+						<a class="text-xs text-white font-medium py-2 px-3 border-r border-white/10" href="#">FAQs</a>
 					</div>
+
 				</div>
 
 			</div>
@@ -54,16 +57,45 @@
 	<div class="search-wrapper bg-darkBlue py-8">
 		<div class="container mx-auto">
 			<div class="md:flex md:items-center md:justify-between">
-				<div class="site-logo">
-					<a href=""><img src="wp-content/uploads/2022/12/download.svg" alt=""></a>
-				</div>
 
 				<div class="searchBar">
+
+					<form>
+						<div class="flex">
+							<label for="search-dropdown" class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Your Email</label>
+							<button id="dropdown-button" data-dropdown-toggle="dropdown" class="flex-shrink-0 z-10 inline-flex items-center py-2.5 px-4 text-sm font-medium text-center text-gray-900 bg-gray-100 border border-gray-300 rounded-l-lg hover:bg-gray-200 focus:ring-4 focus:outline-none focus:ring-gray-100 dark:bg-gray-700 dark:hover:bg-gray-600 dark:focus:ring-gray-700 dark:text-white dark:border-gray-600" type="button">All categories <svg aria-hidden="true" class="w-4 h-4 ml-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg></button>
+							<div id="dropdown" class="z-10 hidden bg-white divide-y divide-gray-100 rounded shadow w-44 dark:bg-gray-700" data-popper-reference-hidden="" data-popper-escaped="" data-popper-placement="top" style="position: absolute; inset: auto auto 0px 0px; margin: 0px; transform: translate3d(897px, 5637px, 0px);">
+								<ul class="py-1 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdown-button">
+								<li>
+									<button type="button" class="inline-flex w-full px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Mockups</button>
+								</li>
+								<li>
+									<button type="button" class="inline-flex w-full px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Templates</button>
+								</li>
+								<li>
+									<button type="button" class="inline-flex w-full px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Design</button>
+								</li>
+								<li>
+									<button type="button" class="inline-flex w-full px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Logos</button>
+								</li>
+								</ul>
+							</div>
+							<div class="relative w-full">
+								<input type="search" id="search-dropdown" class="block p-2.5 w-full z-20 text-sm text-gray-900 bg-gray-50 rounded-r-lg border-l-gray-50 border-l-2 border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-l-gray-700  dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:border-blue-500" placeholder="Search Mockups, Logos, Design Templates..." required>
+								<button type="submit" class="absolute top-0 right-0 p-2.5 text-sm font-medium text-white bg-blue-700 rounded-r-lg border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+									<svg aria-hidden="true" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+									<span class="sr-only">Search</span>
+								</button>
+							</div>
+						</div>
+					</form>
 
 				</div>
 
 				<div class="woo-icon">
+					<span>
 
+					</span>
 				</div>
 			</div>
 		</div>
@@ -116,7 +148,7 @@
 						'container_class' => 'hidden bg-gray-100 mt-4 p-4 lg:mt-0 lg:p-0 lg:bg-transparent lg:block',
 						'menu_class'      => 'lg:flex lg:-mx-4',
 						'theme_location'  => 'primary',
-						'li_class'        => 'lg:mx-3 pl-7 text-lightBlack text-[13px] font-bold hover:text-darkOrange',
+						'li_class'        => 'lg:mx-3 pl-7 text-lightBlack text-[13px] font-bold hover:text-[#f4a51c]',
 						'fallback_cb'     => false,
 					)
 				);

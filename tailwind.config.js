@@ -28,12 +28,16 @@ module.exports = {
                 'darkBlue'     : '#092143',
                 'darkOrange'   : '#f4a51c',
                 'lightGray'    : '#F7F7F7',
-                'darkGray'     : '#F6F6F6sss'
+                'darkGray'     : '#F6F6F6',
+                'lightBlack'   : '#242424'        
+
             },
             textColor: {
-                'Gray'         : '#CEC7B2',
+                'Gray'         : '#CED3D9',
+                'lightGray'    : '#787979',
                 'White'        : '#3A4D69',
-                'lightBlack'   : '#333333'
+                'lightBlack'   : '#333333',
+                'borderWhite'  : '#ffffff'
             },
         },
 
