@@ -10,7 +10,15 @@ License URI: https://github.com/jeffreyvr/tailpress/blob/master/LICENSE
 Text Domain: tailpress
 */
 .owl-stage-outer {
-    padding-bottom: 40px;
+    padding-bottom: 0px;
+}
+.owl-nav {
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+.owl-dots {
+    display: none;
 }
 
 .popular-cat {
@@ -23,4 +31,7 @@ Text Domain: tailpress
     background-color: red;
     top: 0;
     right: 0;
+}
+.text-width {
+    max-width: 720px;
 }

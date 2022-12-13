@@ -10,23 +10,53 @@
 
 
 
-<section class="py-44 bg-darkBlue">
-    <div class="container mx-auto">
-        <div class="owl-carousel owl-theme">
-            <div class="item">
-                <div class="hero-content">
-                                
-                    <div class="content-wrapper">
-                        <h3 class="text-lg font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
-                        <h1 class="text-[50px] text-center text-white mx-auto font-medium max-w-[70%]">Buy The Best Tourist Equipment For An Excellent Holiday.</h1>
-                    </div>
-
-                    <div class="view-button text-center mt-12">
-                        <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange" href="#">VIEW MORE</a></span>
-                        <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange ml-5" href="#">TO SHOP</a></span>
-                    </div>
-
+<section class="">
+    <div class="owl-carousel owl-theme">
+        <div class="item">
+            <div class="hero-content py-44 bg-cover" style="background-image: url('wp-content/uploads/2022/12/Slider.jpg');">
+                            
+                <div class="content-wrapper mx-0">
+                    <h3 class="text-lg font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
+                    <h1 class="text-width text-[50px] text-center text-white mx-auto font-medium">Buy The Best Tourist Equipment For An Excellent Holiday.</h1>
                 </div>
+
+                <div class="view-button text-center mt-12">
+                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange" href="#">VIEW MORE</a></span>
+                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange ml-3" href="#">TO SHOP</a></span>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="hero-content py-44 bg-cover" style="background-image: url('wp-content/uploads/2022/12/Slider2.jpg');">
+                            
+                <div class="content-wrapper mx-0">
+                    <h3 class="text-lg font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
+                    <h1 class="text-width text-[50px] text-center text-white mx-auto font-medium">Buy The Best Tourist Equipment For An Excellent Holiday.</h1>
+                </div>
+
+                <div class="view-button text-center mt-12">
+                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange" href="#">VIEW MORE</a></span>
+                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange ml-3" href="#">TO SHOP</a></span>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="hero-content py-44 bg-cover" style="background-image: url('wp-content/uploads/2022/12/Slider3.jpg');">
+                            
+                <div class="content-wrapper mx-0">
+                    <h3 class="text-lg font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
+                    <h1 class="text-width text-[50px] text-center text-white mx-auto font-medium">Buy The Best Tourist Equipment For An Excellent Holiday.</h1>
+                </div>
+
+                <div class="view-button text-center mt-12">
+                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange" href="#">VIEW MORE</a></span>
+                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange ml-3" href="#">TO SHOP</a></span>
+                </div>
+
             </div>
         </div>
     </div>
@@ -124,8 +154,22 @@
             </div>
         </div>
 
-        <div class="wrist-watches">
-            <div class="quarz-wrapper bg-[url('')] p-7 bg-darkBlue">
+        <div class="wrist-watches grid grid-cols-3 grid-flow-row">
+            <div class="quarz-wrapper p-7 bg-darkBlue bg-cover pb-24 my-10 bg-no-repeat mr-6" style="background-image: url('wp-content/uploads/2022/12/images.jfif');">
+                <h5 class="text-white text-2xl font-light">QUARTZ</h5>
+                <h6 class="text-white text-2xl font-semibold">WRIST WATCH</h6>
+                <p class="text-Gray text-sm font-medium">Donec accumsan eros.</p>
+                <span class="text-white text-sm font-semibold">$299.00</span>
+            </div>
+
+            <div class="quarz-wrapper p-7 bg-darkBlue bg-cover pb-24 my-10 bg-no-repeat mr-6" style="background-image: url('wp-content/uploads/2022/12/images.jfif');">
+                <h5 class="text-white text-2xl font-light">QUARTZ</h5>
+                <h6 class="text-white text-2xl font-semibold">WRIST WATCH</h6>
+                <p class="text-Gray text-sm font-medium">Donec accumsan eros.</p>
+                <span class="text-white text-sm font-semibold">$299.00</span>
+            </div>
+
+            <div class="quarz-wrapper p-7 bg-darkBlue bg-cover pb-24 my-10 bg-no-repeat" style="background-image: url('wp-content/uploads/2022/12/images.jfif');">
                 <h5 class="text-white text-2xl font-light">QUARTZ</h5>
                 <h6 class="text-white text-2xl font-semibold">WRIST WATCH</h6>
                 <p class="text-Gray text-sm font-medium">Donec accumsan eros.</p>
