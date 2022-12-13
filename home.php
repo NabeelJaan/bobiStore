@@ -11,7 +11,7 @@
 
 
 <section class="">
-    <div class="owl-carousel owl-theme">
+    <div class="owl-carousel owl-theme owl-one">
         <div class="item">
             <div class="hero-content py-44 bg-cover" style="background-image: url('wp-content/uploads/2022/12/Slider.jpg');">
                             

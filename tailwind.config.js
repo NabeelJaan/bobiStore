@@ -23,6 +23,7 @@ module.exports = {
         extend: {
             fontFamily: {
                 'poppins': ['Poppins', 'sans-serif'],
+                'jost': ['Jost', 'sans-serif']
             },
             backgroundColor: {
                 'darkBlue'     : '#092143',

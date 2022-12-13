@@ -5,6 +5,9 @@
 	<meta name="viewport" content="width=device-width">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+	<!-- Google fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 	<?php wp_head(); ?>
 </head>
@@ -58,6 +61,19 @@
 		<div class="container mx-auto">
 			<div class="md:flex md:items-center md:justify-between">
 
+				<div>
+					
+					<?php if ( has_custom_logo() ) { ?>
+						<?php the_custom_logo(); ?>
+					<?php } else { ?>
+						<a href="<?php echo get_bloginfo( 'url' ); ?>" class="font-bold text-white text-xl uppercase mr-[50px]">
+							<?php echo get_bloginfo( 'name' ); ?>
+						</a>
+
+
+					<?php } ?>
+				</div>
+
 				<div class="searchBar">
 
 					<form>
@@ -98,7 +114,7 @@
 
 				<div class="woo-icon">
 					<span>
-
+					
 					</span>
 				</div>
 			</div>
@@ -112,24 +128,7 @@
 		<div class="mx-auto container">
 			<div class="lg:flex lg:items-center py-3 ">
 				<div class="flex justify-between items-center">
-					<div>
-						<!-- <div class="categories-wrapper">
-							<a class="text-lightBlack text-[13px] font-bold border-x py-4 pl-5 pr-24" href="#">BROWSE CATEGORIES</a>
-						</div> -->
-						
-						<?php if ( has_custom_logo() ) { ?>
-                            <?php the_custom_logo(); ?>
-						<?php } else { ?>
-							<a href="<?php echo get_bloginfo( 'url' ); ?>" class="font-bold text-lg uppercase mr-[50px]">
-								<?php echo get_bloginfo( 'name' ); ?>
-							</a>
 
-							<p class="text-sm font-light text-gray-600">
-								<?php echo get_bloginfo( 'description' ); ?>
-							</p>
-
-						<?php } ?>
-					</div>
 
 					<div class="lg:hidden">
 						<a href="#" aria-label="Toggle navigation" id="primary-menu-toggle">

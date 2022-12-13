@@ -99,6 +99,11 @@
   margin-right: auto
 }
 
+.mx-0 {
+  margin-left: 0px;
+  margin-right: 0px
+}
+
 .my-10 {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem
@@ -135,16 +140,16 @@
   margin-bottom: 1rem
 }
 
+.mr-\[50px\] {
+  margin-right: 50px
+}
+
 .mb-2 {
   margin-bottom: 0.5rem
 }
 
 .ml-1 {
   margin-left: 0.25rem
-}
-
-.mr-\[50px\] {
-  margin-right: 50px
 }
 
 .mt-4 {
@@ -157,6 +162,10 @@
 
 .mt-12 {
   margin-top: 3rem
+}
+
+.ml-3 {
+  margin-left: 0.75rem
 }
 
 .mb-\[15px\] {
@@ -443,16 +452,8 @@
   background-repeat: no-repeat
 }
 
-.p-2\.5 {
-  padding: 0.625rem
-}
-
-.p-2 {
-  padding: 0.5rem
-}
-
-.p-\[13px\] {
-  padding: 13px
+.p-\[11px\] {
+  padding: 11px
 }
 
 .p-4 {
@@ -461,10 +462,6 @@
 
 .p-7 {
   padding: 1.75rem
-}
-
-.p-\[11px\] {
-  padding: 11px
 }
 
 .px-4 {
@@ -512,6 +509,11 @@
   padding-bottom: 0.25rem
 }
 
+.px-32 {
+  padding-left: 8rem;
+  padding-right: 8rem
+}
+
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem
@@ -532,26 +534,8 @@
   padding-right: 15px
 }
 
-.px-20 {
-  padding-left: 5rem;
-  padding-right: 5rem
-}
-
-.px-32 {
-  padding-left: 8rem;
-  padding-right: 8rem
-}
-
 .pr-5 {
   padding-right: 1.25rem
-}
-
-.pl-5 {
-  padding-left: 1.25rem
-}
-
-.pr-24 {
-  padding-right: 6rem
 }
 
 .pl-7 {
@@ -593,6 +577,11 @@
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem
 }
 
 .text-sm {
@@ -674,14 +663,14 @@
   color: rgb(17 24 39 / var(--tw-text-opacity))
 }
 
-.text-gray-700 {
-  --tw-text-opacity: 1;
-  color: rgb(55 65 81 / var(--tw-text-opacity))
-}
-
 .text-gray-600 {
   --tw-text-opacity: 1;
   color: rgb(75 85 99 / var(--tw-text-opacity))
+}
+
+.text-gray-700 {
+  --tw-text-opacity: 1;
+  color: rgb(55 65 81 / var(--tw-text-opacity))
 }
 
 .text-black {
