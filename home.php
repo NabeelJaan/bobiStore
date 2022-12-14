@@ -16,13 +16,13 @@
             <div class="hero-content py-44 bg-cover" style="background-image: url('wp-content/uploads/2022/12/Slider.jpg');">
                             
                 <div class="content-wrapper mx-0">
-                    <h3 class="text-lg font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
-                    <h1 class="text-width text-[50px] text-center text-white mx-auto font-medium">Buy The Best Tourist Equipment For An Excellent Holiday.</h1>
+                    <h3 class="text-lg font-jost font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
+                    <h1 class="text-width font-jost text-[50px] text-center text-white mx-auto font-medium">Buy The Best Tourist Equipment For An Excellent Holiday.</h1>
                 </div>
 
                 <div class="view-button text-center mt-12">
-                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange" href="#">VIEW MORE</a></span>
-                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange ml-3" href="#">TO SHOP</a></span>
+                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange border-darkOrange" href="#">VIEW MORE</a></span>
+                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange border-darkOrange ml-3" href="#">TO SHOP</a></span>
                 </div>
 
             </div>
@@ -32,13 +32,13 @@
             <div class="hero-content py-44 bg-cover" style="background-image: url('wp-content/uploads/2022/12/Slider2.jpg');">
                             
                 <div class="content-wrapper mx-0">
-                    <h3 class="text-lg font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
-                    <h1 class="text-width text-[50px] text-center text-white mx-auto font-medium">Buy The Best Tourist Equipment For An Excellent Holiday.</h1>
+                    <h3 class="text-lg font-jost font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
+                    <h1 class="text-width text-[50px] text-center text-white mx-auto font-jost font-medium">Buy The Best Tourist Equipment For An Excellent Holiday.</h1>
                 </div>
 
                 <div class="view-button text-center mt-12">
-                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange" href="#">VIEW MORE</a></span>
-                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange ml-3" href="#">TO SHOP</a></span>
+                    <span><a class="text-center text-[13px] text-white font-jost font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange" href="#">VIEW MORE</a></span>
+                    <span><a class="text-center text-[13px] text-white font-jost font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange ml-3" href="#">TO SHOP</a></span>
                 </div>
 
             </div>
@@ -48,13 +48,13 @@
             <div class="hero-content py-44 bg-cover" style="background-image: url('wp-content/uploads/2022/12/Slider3.jpg');">
                             
                 <div class="content-wrapper mx-0">
-                    <h3 class="text-lg font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
+                    <h3 class="text-lg font-jost font-semibold text-center text-[#f4a51c] mb-[25px]">HIGH STRENGTH AND DURABLE</h3>
                     <h1 class="text-width text-[50px] text-center text-white mx-auto font-medium">Buy The Best Tourist Equipment For An Excellent Holiday.</h1>
                 </div>
 
                 <div class="view-button text-center mt-12">
-                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange" href="#">VIEW MORE</a></span>
-                    <span><a class="text-center text-[13px] text-white font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange ml-3" href="#">TO SHOP</a></span>
+                    <span><a class="text-center text-[13px] text-white font-jost font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange" href="#">VIEW MORE</a></span>
+                    <span><a class="text-center text-[13px] text-white font-jost font-semibold py-3 px-5 border border-white rounded-full hover:bg-darkOrange ml-3" href="#">TO SHOP</a></span>
                 </div>
 
             </div>
@@ -73,8 +73,8 @@
                     </svg>
                 </div>
 
-                <h5 class="text-black text-center text-lg font-medium mb-[10px]">Best Quality</h5>
-                <p class="text-lightBlack text-sm text-center font-normal">It’s content strategy gone awry right from the start are wasn’t.</p>
+                <h5 class="text-black text-center text-lg font-jost font-medium mb-[10px]">Best Quality</h5>
+                <p class="text-lightBlack text-sm text-center font-poppins font-normal">It’s content strategy gone awry right from the start are wasn’t.</p>
             </div>
 
             <div class="quality-wrapper my-10 mx-[15px] px-[15px] border-r border-black/10">
@@ -84,8 +84,8 @@
                     </svg>
                 </div>
 
-                <h5 class="text-black text-center text-lg font-medium mb-[10px]">Best Quality</h5>
-                <p class="text-lightBlack text-sm text-center font-normal">It’s content strategy gone awry right from the start are wasn’t.</p>
+                <h5 class="text-black text-center text-lg font-jost font-medium mb-[10px]">Best Quality</h5>
+                <p class="text-lightBlack text-sm text-center font-poppins font-normal">It’s content strategy gone awry right from the start are wasn’t.</p>
             </div>
 
             <div class="quality-wrapper my-10 mx-[15px] px-[15px]">
@@ -95,8 +95,8 @@
                     </svg>
                 </div>
 
-                <h5 class="text-black text-center text-lg font-medium mb-[10px]">Best Quality</h5>
-                <p class="text-lightBlack text-sm text-center font-normal">It’s content strategy gone awry right from the start are wasn’t.</p>
+                <h5 class="text-black text-center text-lg font-jost font-medium mb-[10px]">Best Quality</h5>
+                <p class="text-lightBlack text-sm text-center font-poppins font-normal">It’s content strategy gone awry right from the start are wasn’t.</p>
             </div>
 
         </div>
@@ -106,75 +106,94 @@
 
 <section class="popular-category bg-white">
     <div class="container max-w-6xl mx-auto">
-    <h3 class="popular-cat text-black text-[22px] font-bold">POPULAR IN CATEGORY</h3>
+    <h3 class="popular-cat font-jost text-black text-[22px] font-bold">POPULAR IN CATEGORY</h3>
         <div class="category-wrapper">
             <div class="watches-wrapper grid grid-cols-6 grid-flow-row">
 
                 <div class="image-wrapper my-5">
                     <img src="wp-content\uploads\2022\12/Watch2.png" alt="">
-                    <h6 class="text-sm text-black text-center font-medium my-1">Sapien masa convalis</h6>
-                    <p class="text-sm text-Gray text-center font-normal mb-1">Marketplace</p>
-                    <span class="text-sm text-[#db3340] block text-center font-normal">$269.00</span>
+                    <h6 class="text-sm text-black font-jost text-center font-medium my-1">Sapien masa convalis</h6>
+                    <p class="text-sm text-Gray text-center font-poppins font-normal mb-1">Marketplace</p>
+                    <span class="text-sm text-[#db3340] block text-center font-poppins font-normal">$269.00</span>
                 </div>
 
                 <div class="image-wrapper my-5">
                     <img src="wp-content\uploads\2022\12/Watch2.png" alt="">
-                    <h6 class="text-sm text-black text-center font-medium my-1">Sapien masa convalis</h6>
-                    <p class="text-sm text-Gray text-center font-normal mb-1">Marketplace</p>
-                    <span class="text-sm text-[#db3340] block text-center font-normal">$269.00</span>
+                    <h6 class="text-sm text-black font-jost text-center font-medium my-1">Sapien masa convalis</h6>
+                    <p class="text-sm text-Gray text-center font-jost font-normal mb-1">Marketplace</p>
+                    <span class="text-sm text-[#db3340] block text-center font-poppins font-normal">$269.00</span>
                 </div>
 
                 <div class="image-wrapper my-5">
                     <img src="wp-content\uploads\2022\12/Watch2.png" alt="">
-                    <h6 class="text-sm text-black text-center font-medium my-1">Sapien masa convalis</h6>
-                    <p class="text-sm text-Gray text-center font-normal mb-1">Marketplace</p>
-                    <span class="text-sm text-[#db3340] block text-center font-normal">$269.00</span>
+                    <h6 class="text-sm text-black font-jost text-center font-medium my-1">Sapien masa convalis</h6>
+                    <p class="text-sm text-Gray text-center font-jost font-normal mb-1">Marketplace</p>
+                    <span class="text-sm text-[#db3340] block text-center font-poppins font-normal">$269.00</span>
                 </div>
 
                 <div class="image-wrapper my-5">
                     <img src="wp-content\uploads\2022\12/Watch2.png" alt="">
-                    <h6 class="text-sm text-black text-center font-medium my-1">Sapien masa convalis</h6>
-                    <p class="text-sm text-Gray text-center font-normal mb-1">Marketplace</p>
-                    <span class="text-sm text-[#db3340] block text-center font-normal">$269.00</span>
+                    <h6 class="text-sm text-black font-jost text-center font-medium my-1">Sapien masa convalis</h6>
+                    <p class="text-sm text-Gray text-center font-jost font-normal mb-1">Marketplace</p>
+                    <span class="text-sm text-[#db3340] block text-center font-poppins font-normal">$269.00</span>
                 </div>
 
                 <div class="image-wrapper my-5">
                     <img src="wp-content\uploads\2022\12/Watch2.png" alt="">
-                    <h6 class="text-sm text-black text-center font-medium my-1">Sapien masa convalis</h6>
-                    <p class="text-sm text-Gray text-center font-normal mb-1">Marketplace</p>
-                    <span class="text-sm text-[#db3340] block text-center font-normal">$269.00</span>
+                    <h6 class="text-sm text-black font-jost text-center font-medium my-1">Sapien masa convalis</h6>
+                    <p class="text-sm text-Gray text-center font-jost font-normal mb-1">Marketplace</p>
+                    <span class="text-sm text-[#db3340] block text-center font-poppins font-normal">$269.00</span>
                 </div>
 
                 <div class="image-wrapper my-5">
                     <img src="wp-content\uploads\2022\12/Watch2.png" alt="">
-                    <h6 class="text-sm text-black text-center font-medium my-1">Sapien masa convalis</h6>
-                    <p class="text-sm text-Gray text-center font-normal mb-1">Marketplace</p>
-                    <span class="text-sm text-[#db3340] block text-center font-normal">$269.00</span>
+                    <h6 class="text-sm text-black font-jost text-center font-medium my-1">Sapien masa convalis</h6>
+                    <p class="text-sm text-Gray text-center font-jost font-normal mb-1">Marketplace</p>
+                    <span class="text-sm text-[#db3340] block text-center font-poppins font-normal">$269.00</span>
                 </div>
             </div>
         </div>
 
         <div class="wrist-watches grid grid-cols-3 grid-flow-row">
             <div class="quarz-wrapper p-7 bg-darkBlue bg-cover pb-24 my-10 bg-no-repeat mr-6" style="background-image: url('wp-content/uploads/2022/12/images.jfif');">
-                <h5 class="text-white text-2xl font-light">QUARTZ</h5>
-                <h6 class="text-white text-2xl font-semibold">WRIST WATCH</h6>
-                <p class="text-Gray text-sm font-medium">Donec accumsan eros.</p>
-                <span class="text-white text-sm font-semibold">$299.00</span>
+                <h5 class="text-white text-2xl font-jost font-light">QUARTZ</h5>
+                <h6 class="text-white text-2xl font-jost font-semibold">WRIST WATCH</h6>
+                <p class="text-Gray text-sm font-poppins font-medium">Donec accumsan eros.</p>
+                <span class="text-white text-sm font-poppins font-semibold">$299.00</span>
             </div>
 
             <div class="quarz-wrapper p-7 bg-darkBlue bg-cover pb-24 my-10 bg-no-repeat mr-6" style="background-image: url('wp-content/uploads/2022/12/images.jfif');">
-                <h5 class="text-white text-2xl font-light">QUARTZ</h5>
-                <h6 class="text-white text-2xl font-semibold">WRIST WATCH</h6>
-                <p class="text-Gray text-sm font-medium">Donec accumsan eros.</p>
-                <span class="text-white text-sm font-semibold">$299.00</span>
+                <h5 class="text-white text-2xl font-jost font-light">QUARTZ</h5>
+                <h6 class="text-white text-2xl font-jost font-semibold">WRIST WATCH</h6>
+                <p class="text-Gray text-sm font-poppins font-medium">Donec accumsan eros.</p>
+                <span class="text-white text-sm font-poppins font-semibold">$299.00</span>
             </div>
 
             <div class="quarz-wrapper p-7 bg-darkBlue bg-cover pb-24 my-10 bg-no-repeat" style="background-image: url('wp-content/uploads/2022/12/images.jfif');">
-                <h5 class="text-white text-2xl font-light">QUARTZ</h5>
-                <h6 class="text-white text-2xl font-semibold">WRIST WATCH</h6>
-                <p class="text-Gray text-sm font-medium">Donec accumsan eros.</p>
-                <span class="text-white text-sm font-semibold">$299.00</span>
+                <h5 class="text-white text-2xl font-jost font-light">QUARTZ</h5>
+                <h6 class="text-white text-2xl font-jost font-semibold">WRIST WATCH</h6>
+                <p class="text-Gray text-sm font-poppins font-medium">Donec accumsan eros.</p>
+                <span class="text-white text-sm font-poppins font-semibold">$299.00</span>
             </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="our-blogs">
+    <div class="container max-w-6xl mx-auto">
+        <div class="blog-wrapper">
+            <img src="" alt="">
+            <h4 class="text-sm text-white text-center font-jost font-bold">Design trends, Furniture</h4>
+            <h3 class="text-2xl text-lightBlack text-center font-jost">Furniture that explores wood as a material</h3>
+
+            <div class="post-wrapper flex">
+                <p>Posted by</p>
+                <img src="" alt="">
+                <p>S. Rogers</p>
+            </div>
+            <p>Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
+            <h6>btn-read-more more-link</h6>
         </div>
     </div>
 </section>
