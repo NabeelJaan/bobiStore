@@ -1,65 +1,8 @@
-<?php $query = new WP_Query( [
-    'post_type'      => 'popular-categories',
-    'nopaging'       => true,
-    'posts_per_page' => '-1',
-] ); ?>
-
-<?php if ( $query->have_posts() ) : ?>
-
-
-    <div class="container">
-        <div class="owl-carousel">
-
-            <?php while ( $query->have_posts() ) : $query->the_post(); ?>
-
-                <div>
-
-                    <div class="single-cat">
-
-                        <?php the_post_thumbnail(''); ?>
-
-                        <h4><?php the_title(); ?></h4>
-
-                        <a href="<?php the_permalink();?>" area-label="view details" target="_self">view detail</a>
-
-                    </div>
-
-                </div>
-
-            <?php endwhile; ?>
-        </div>
-    </div>
-
-<?php endif; ?>
-
-<?php wp_reset_postdata(); ?>
 
 
 
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="12px" height="15"><path fill="#ffffff" d="M352 160v-32C352 57.42 294.579 0 224 0 153.42 0 96 57.42 96 128v32H0v272c0 44.183 35.817 80 80 80h288c44.183 0 80-35.817 80-80V160h-96zm-192-32c0-35.29 28.71-64 64-64s64 28.71 64 64v32H160v-32zm160 120c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zm-192 0c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24z"/></svg>
 
 
-
-
-<div class="owl-carousel">
-	
-  	<div>
-		
-	  	<div class="single-cat">
-			
-			<img src="/wp-content/uploads/2021/12/WEB_0019_APX3SYS-A_300dpi_No_White_Space-1.png" width="300" height="">
-
-
-			
-			<h4>Dual lane system long category system dropping to three lines</h4>
-
-			
-			<a href="#" area-label="view details" target="_self">view detail</a>
-
-			
-		</div>
-		
-	</div>
-	
-	
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M352 160v-32C352 57.42 294.579 0 224 0 153.42 0 96 57.42 96 128v32H0v272c0 44.183 35.817 80 80 80h288c44.183 0 80-35.817 80-80V160h-96zm-192-32c0-35.29 28.71-64 64-64s64 28.71 64 64v32H160v-32zm160 120c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zm-192 0c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24z"/></svg>
