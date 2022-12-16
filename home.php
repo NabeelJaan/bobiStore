@@ -10,7 +10,7 @@
 
 
 
-<section class="">
+<section class="hero-sec">
     <div class="owl-carousel owl-one">
         <div class="item">
             <div class="hero-content py-44 bg-cover" style="background-image: url('wp-content/uploads/2022/12/Slider.jpg');">
@@ -169,7 +169,7 @@
                 <span class="text-white text-sm font-poppins font-semibold">$299.00</span>
             </div>
 
-            <div class="quarz-wrapper p-7 bg-darkBlue bg-cover pb-24 my-10 bg-no-repeat" style="background-image: url('wp-content/uploads/2022/12/images.jfif');">
+            <div class="quarz-wrapper p-7 bg-darkBlue bg-cover pb-24 my-10 bg-no-repeat" style="background-image: url('wp-content/uploads/2022/12/watch.jpg');">
                 <h5 class="text-white text-2xl font-jost font-light">QUARTZ</h5>
                 <h6 class="text-white text-2xl font-jost font-semibold">WRIST WATCH</h6>
                 <p class="text-Gray text-sm font-poppins font-medium">Donec accumsan eros.</p>
@@ -186,112 +186,112 @@
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
 
             <div class="Categories-wrapper bg-white p-[16px] border-r border-b border-black/10">
                 <div class="Categories-content flex justify-center items-center">
-                    <img src="wp-content/uploads/2022/12/cap.jpg" alt="">
+                    <img src="/wp-content/uploads/2022/12/Cap-1.png" alt="Cap">
                 </div>
                 <h6 class="text-md text-lightBlack text-center font-jost font-normal mt-2">Hats & Caps</h6>
             </div>
@@ -300,64 +300,68 @@
 </section>
 
 
-<section class="our-blogs">
+<section class="our-blogs py-20">
     <div class="container max-w-6xl mx-auto">
     <h3 class="popular-cat font-jost text-black text-[22px] font-bold mb-5">OUR BLOGS</h3>
         <div class="owl-carousel owl-two">
 
             <div class="item">
-                <div class="blog-wrapper">
+                <div class="blog-wrapper pb-10">
                     <div class="img-wrapper flex items-center justify-center">
-                        <img class="max-w-[450px]" src="wp-content/uploads/2022/12/Slider4.jpg" alt="">
+                        <img class="max-w-[360px]" src="wp-content/uploads/2022/12/Slider4.jpg" alt="">
                     </div>
-                    <h4 class="text-sm text-white text-center font-jost font-medium">Design trends, Furniture</h4>
-                    <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold">Furniture that explores wood as a material</h3>
+                    <h4 class="text-sm text-white text-center font-jost font-medium mb-[10px]">Design trends, Furniture</h4>
+                    <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold mb-[10px]">Furniture that explores wood as a material</h3>
 
-                    <div class="post-wrapper flex justify-center items-center">
+                    <div class="post-wrapper flex justify-center items-center mb-[10px]">
                         <p class="text-sm text-Gray text-center font-poppins font-medium">Posted by</p>
                         <img class="rounded-full mx-3 max-w-[20px]" src="wp-content/uploads/2022/12/client1.png" alt="">
                         <p class="text-sm text-Gray text-center font-poppins font-medium">S. Rogers</p>
                     </div>
-                    <p class="text-md text-Gray text-center font-normal font-poppins">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
-                    <h6 class="text-md text-[#f4a51c] text-center font-jost font-extrabold">CONTINUE READING</h6>
+
+                    <p class="text-sm text-lightGray text-center font-light font-poppins max-w-[90%] mx-auto mb-[10px]">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
+                    <h6 class="text-sm text-[#f4a51c] text-center font-jost font-medium">CONTINUE READING</h6>
                 </div>
             </div>
             
             <div class="item">
-                <div class="blog-wrapper">
+                <div class="blog-wrapper pb-10">
                     <div class="img-wrapper flex items-center justify-center">
-                        <img class="max-w-[450px]" src="wp-content/uploads/2022/12/Slider4.jpg" alt="">
+                        <img class="max-w-[360px]" src="wp-content/uploads/2022/12/Slider4.jpg" alt="">
                     </div>
-                    <h4 class="text-sm text-white text-center font-jost font-medium">Design trends, Furniture</h4>
-                    <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold">Furniture that explores wood as a material</h3>
+                    <h4 class="text-sm text-white text-center font-jost font-medium mb-[10px]">Design trends, Furniture</h4>
+                    <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold mb-[10px]">Furniture that explores wood as a material</h3>
 
-                    <div class="post-wrapper flex justify-center items-center">
+                    <div class="post-wrapper flex justify-center items-center mb-[10px]">
                         <p class="text-sm text-Gray text-center font-poppins font-medium">Posted by</p>
                         <img class="rounded-full mx-3 max-w-[20px]" src="wp-content/uploads/2022/12/client1.png" alt="">
                         <p class="text-sm text-Gray text-center font-poppins font-medium">S. Rogers</p>
                     </div>
-                    <p class="text-md text-Gray text-center font-normal font-poppins">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
-                    <h6 class="text-md text-[#f4a51c] text-center font-jost font-extrabold">CONTINUE READING</h6>
+
+                    <p class="text-sm text-lightGray text-center font-light font-poppins max-w-[90%] mx-auto mb-[10px]">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
+                    <h6 class="text-sm text-[#f4a51c] text-center font-jost font-medium">CONTINUE READING</h6>
                 </div>
             </div>
 
             <div class="item">
-                <div class="blog-wrapper">
+                <div class="blog-wrapper pb-10">
                     <div class="img-wrapper flex items-center justify-center">
-                        <img class="max-w-[450px]" src="wp-content/uploads/2022/12/Slider4.jpg" alt="">
+                        <img class="max-w-[360px]" src="wp-content/uploads/2022/12/Slider4.jpg" alt="">
                     </div>
-                    <h4 class="text-sm text-white text-center font-jost font-medium">Design trends, Furniture</h4>
-                    <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold">Furniture that explores wood as a material</h3>
+                    <h4 class="text-sm text-white text-center font-jost font-medium mb-[10px]">Design trends, Furniture</h4>
+                    <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold mb-[10px]">Furniture that explores wood as a material</h3>
 
-                    <div class="post-wrapper flex justify-center items-center">
+                    <div class="post-wrapper flex justify-center items-center mb-[10px]">
                         <p class="text-sm text-Gray text-center font-poppins font-medium">Posted by</p>
                         <img class="rounded-full mx-3 max-w-[20px]" src="wp-content/uploads/2022/12/client1.png" alt="">
                         <p class="text-sm text-Gray text-center font-poppins font-medium">S. Rogers</p>
                     </div>
-                    <p class="text-md text-Gray text-center font-normal font-poppins">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
-                    <h6 class="text-md text-[#f4a51c] text-center font-jost font-extrabold">CONTINUE READING</h6>
+                    
+                    <p class="text-sm text-lightGray text-center font-light font-poppins max-w-[90%] mx-auto mb-[10px]">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
+                    <h6 class="text-sm text-[#f4a51c] text-center font-jost font-medium">CONTINUE READING</h6>
                 </div>
             </div>
+            
         </div>
     </div>
 </section>
