@@ -302,7 +302,9 @@
 
 <section class="our-blogs py-20">
     <div class="container max-w-6xl mx-auto">
-    <h3 class="popular-cat font-jost text-black text-[22px] font-bold mb-5">OUR BLOGS</h3>
+
+        <h2 class="popular-cat font-jost text-black text-[22px] font-bold mb-5 text-center">OUR BLOGS</h2>
+
         <div class="owl-carousel owl-two">
 
             <div class="item">
@@ -310,17 +312,19 @@
                     <div class="img-wrapper flex items-center justify-center">
                         <img class="max-w-[360px]" src="wp-content/uploads/2022/12/Slider4.jpg" alt="">
                     </div>
-                    <h4 class="text-sm text-white text-center font-jost font-medium mb-[10px]">Design trends, Furniture</h4>
-                    <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold mb-[10px]">Furniture that explores wood as a material</h3>
+                    <div>
+                        <h4 class="text-sm text-white text-center font-jost font-medium mb-[10px]">Design trends, Furniture</h4>
+                        <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold mb-[10px]">Furniture that explores wood as a material</h3>
 
-                    <div class="post-wrapper flex justify-center items-center mb-[10px]">
-                        <p class="text-sm text-Gray text-center font-poppins font-medium">Posted by</p>
-                        <img class="rounded-full mx-3 max-w-[20px]" src="wp-content/uploads/2022/12/client1.png" alt="">
-                        <p class="text-sm text-Gray text-center font-poppins font-medium">S. Rogers</p>
+                        <div class="post-wrapper flex justify-center items-center mb-[10px]">
+                            <p class="text-sm text-Gray text-center font-poppins font-medium">Posted by</p>
+                            <img class="rounded-full mx-3 max-w-[20px]" src="wp-content/uploads/2022/12/client1.png" alt="">
+                            <p class="text-sm text-Gray text-center font-poppins font-medium">S. Rogers</p>
+                        </div>
+                        
+                        <p class="text-sm text-lightGray text-center font-light font-poppins max-w-[90%] mx-auto mb-[10px]">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
+                        <h6 class="text-sm text-[#f4a51c] text-center font-jost font-medium">CONTINUE READING</h6>
                     </div>
-
-                    <p class="text-sm text-lightGray text-center font-light font-poppins max-w-[90%] mx-auto mb-[10px]">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
-                    <h6 class="text-sm text-[#f4a51c] text-center font-jost font-medium">CONTINUE READING</h6>
                 </div>
             </div>
             
@@ -329,17 +333,19 @@
                     <div class="img-wrapper flex items-center justify-center">
                         <img class="max-w-[360px]" src="wp-content/uploads/2022/12/Slider4.jpg" alt="">
                     </div>
-                    <h4 class="text-sm text-white text-center font-jost font-medium mb-[10px]">Design trends, Furniture</h4>
-                    <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold mb-[10px]">Furniture that explores wood as a material</h3>
+                    <div>
+                        <h4 class="text-sm text-white text-center font-jost font-medium mb-[10px]">Design trends, Furniture</h4>
+                        <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold mb-[10px]">Furniture that explores wood as a material</h3>
 
-                    <div class="post-wrapper flex justify-center items-center mb-[10px]">
-                        <p class="text-sm text-Gray text-center font-poppins font-medium">Posted by</p>
-                        <img class="rounded-full mx-3 max-w-[20px]" src="wp-content/uploads/2022/12/client1.png" alt="">
-                        <p class="text-sm text-Gray text-center font-poppins font-medium">S. Rogers</p>
+                        <div class="post-wrapper flex justify-center items-center mb-[10px]">
+                            <p class="text-sm text-Gray text-center font-poppins font-medium">Posted by</p>
+                            <img class="rounded-full mx-3 max-w-[20px]" src="wp-content/uploads/2022/12/client1.png" alt="">
+                            <p class="text-sm text-Gray text-center font-poppins font-medium">S. Rogers</p>
+                        </div>
+                        
+                        <p class="text-sm text-lightGray text-center font-light font-poppins max-w-[90%] mx-auto mb-[10px]">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
+                        <h6 class="text-sm text-[#f4a51c] text-center font-jost font-medium">CONTINUE READING</h6>
                     </div>
-
-                    <p class="text-sm text-lightGray text-center font-light font-poppins max-w-[90%] mx-auto mb-[10px]">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
-                    <h6 class="text-sm text-[#f4a51c] text-center font-jost font-medium">CONTINUE READING</h6>
                 </div>
             </div>
 
@@ -348,17 +354,20 @@
                     <div class="img-wrapper flex items-center justify-center">
                         <img class="max-w-[360px]" src="wp-content/uploads/2022/12/Slider4.jpg" alt="">
                     </div>
-                    <h4 class="text-sm text-white text-center font-jost font-medium mb-[10px]">Design trends, Furniture</h4>
-                    <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold mb-[10px]">Furniture that explores wood as a material</h3>
 
-                    <div class="post-wrapper flex justify-center items-center mb-[10px]">
-                        <p class="text-sm text-Gray text-center font-poppins font-medium">Posted by</p>
-                        <img class="rounded-full mx-3 max-w-[20px]" src="wp-content/uploads/2022/12/client1.png" alt="">
-                        <p class="text-sm text-Gray text-center font-poppins font-medium">S. Rogers</p>
+                    <div>
+                        <h4 class="text-sm text-white text-center font-jost font-medium mb-[10px]">Design trends, Furniture</h4>
+                        <h3 class="text-2xl text-lightBlack text-center font-jost font-semibold mb-[10px]">Furniture that explores wood as a material</h3>
+
+                        <div class="post-wrapper flex justify-center items-center mb-[10px]">
+                            <p class="text-sm text-Gray text-center font-poppins font-medium">Posted by</p>
+                            <img class="rounded-full mx-3 max-w-[20px]" src="wp-content/uploads/2022/12/client1.png" alt="">
+                            <p class="text-sm text-Gray text-center font-poppins font-medium">S. Rogers</p>
+                        </div>
+                        
+                        <p class="text-sm text-lightGray text-center font-light font-poppins max-w-[90%] mx-auto mb-[10px]">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
+                        <h6 class="text-sm text-[#f4a51c] text-center font-jost font-medium">CONTINUE READING</h6>
                     </div>
-                    
-                    <p class="text-sm text-lightGray text-center font-light font-poppins max-w-[90%] mx-auto mb-[10px]">Cursus nunc venenatis a lacinia a id vestibulum posuere aenean nam nam sem porta sit consectetur. Ac nam ullamcorper pre...</p>
-                    <h6 class="text-sm text-[#f4a51c] text-center font-jost font-medium">CONTINUE READING</h6>
                 </div>
             </div>
             
